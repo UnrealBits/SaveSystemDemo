@@ -1,6 +1,10 @@
 # [UnrealBits] Save System Demo
 A demo project for the UBSaveSystem plugin. The plugin is required to compile the demo project
 
+## Purchasing the Plugin
+- <a href="https://unrealbits.gumroad.com/l/savesystem" target="_blank">Gumroad</a>
+- <a href="https://unrealbits.itch.io/save-system" target="_blank">Itch</a>
+
 ## Plugin Features
 <ol>
     <li>Automatic save backups: Every time the game is saved, a backup is created and will be used if the latest save can't be loaded. The amount of backups can be changed in the project settings</li>
